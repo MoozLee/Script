@@ -2,12 +2,12 @@
 	"id": "moozlee.app.sub",
 	"name": "MoozLee.Script",
 	"author": "@moozlee",
-	"icon": "https://avatars0.githubusercontent.com/u/75375782?s=400&u=86eee41f7f138c5d0187aa10d2242bfc9799182e&v=4",
+	"icon": "https://avatars.githubusercontent.com/u/2860691?s=400&v=4",
 	"repo": "https://github.com/MoozLee/Script",
 	"apps": [{
-		"id": "PushBoxjsCookie",
-		"name": "elecV2p推送Cookie",
-        "keys": ["v2purl","v2token"],
+		"id": "PushBoxjsCookieNew",
+		"name": "elecV2p推送Cookie(自用)",
+        "keys": ["v2purl","v2token","m_token"],
         "descs_html": [
             "参考CenBomin同步cookie代码，增加v2ptoken验证，自用"
           ],
