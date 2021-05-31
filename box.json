@@ -35,8 +35,8 @@
 			}
 		],
 		"author": "@moozlee",
-		"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELECV2PJS/PushBoxjsCookie_elecV2p.js",
+		"repo": ["https://raw.githubusercontent.com/MoozLee/Script"],
+		"script": "https://raw.githubusercontent.com/MoozLee/Script/master/ELECV2PJS/PushBoxjsCookie_elecV2p.js",
 		"icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/elecv2p-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/elecv2p.png"]
 	}]
 }
